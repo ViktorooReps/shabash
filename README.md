@@ -5,6 +5,7 @@
     cd ~
     touch .my_custom_commands.sh       # или любое другое название по желанию
     ```
+    И скопировать в него содержимое .my_custom_commands.sh
 2. Перенести папку utilities куда угодно, добавить её путь в поле UT_PATH файла .my_custom_commands.sh:
     ```
     UT_PATH=/your/own/path/utilities/
